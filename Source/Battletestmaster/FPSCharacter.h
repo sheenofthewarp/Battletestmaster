@@ -9,7 +9,7 @@
 #include "FPSCharacter.generated.h"
 
 UCLASS()
-class UNREALTEK_API AFPSCharacter : public ACharacter
+class BATTLETESTMASTER_API AFPSCharacter : public ACharacter
 {
 	GENERATED_BODY()
 
